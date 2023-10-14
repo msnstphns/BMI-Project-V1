@@ -17,7 +17,7 @@ struct ContentView: View {
     var body: some View {
         
         VStack {
-            Text("BMI Calculator Version 1")
+            Text("BMI Calculator Version 1 ok")
                 .font(.title)
                 .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                 .foregroundColor(Color.gray)
